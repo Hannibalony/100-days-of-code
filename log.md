@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: July 20, 2017 
+### Day 1: June 20, 2017 
 
 **Today's Progress**: My first log entry for #100daysofcode. i just Continued progress on replicating youtube player page as a task from [theodinproject.com](https://www.theodinproject.com).. I used a css library called fontawesome that have bunch of icons similar to youtube's instead of creating the pictures myself... still working to position things..
 
